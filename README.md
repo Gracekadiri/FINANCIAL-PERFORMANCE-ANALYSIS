@@ -39,7 +39,7 @@ https://github.com/Kadiis/FINANCIAL-PERFORMANCE-ANALYSIS/assets/106782819/ac1cfa
   
 - The company should focus on customer retention strategies in the USA and Egypt. Satisfied customers are more likely to become repeat buyers, and nurturing existing customer relationships can lead to a more stable revenue stream.
   
-  - Conducting in-depth market research in other countries with relatively lower revenue shares, such as Brazil, Canada, Russia, and the United Kingdom, can help identify opportunities for growth. Understanding the local market dynamics, consumer preferences, and competition will aid in tailoring marketing strategies to these specific regions.
+- Conducting in-depth market research in other countries with relatively lower revenue shares, such as Brazil, Canada, Russia, and the United Kingdom, can help identify opportunities for growth. Understanding the local market dynamics, consumer preferences, and competition will aid in tailoring marketing strategies to these specific regions.
 
 - While the USA and Egypt contribute significantly to the company's income, relying heavily on just a few markets may expose the business to risks. Therefore, exploring opportunities in emerging markets or regions with growth potential can diversify the revenue stream and reduce dependence on specific markets.
 
