@@ -29,11 +29,16 @@ https://github.com/Kadiis/FINANCIAL-PERFORMANCE-ANALYSIS/assets/106782819/ac1cfa
 - The analysis revealed that Advertising, Licensing, and Usage Fees were the primary revenue sources for the company, collectively contributing around 50% of the total income. The Facebook Page, Google Ad, and YouTube Channel were the top-performing advertising channels.
 - The marketing strategies employed by the company appear to be well-balanced, encompassing both Business-to-Business (B2B) and Business-to-Customer (B2C) approaches. This suggests that the company is actively catering to both corporate clients and individual consumers.
 - The USA is the highest revenue-generating country, contributing 28.23% of the total income. Egypt follows closely, accounting for 26.65% of the total income. These two countries combined contribute more than half of the company's total revenue.
+  
 ## Recommendations:
 -Based on the analysis, decision-makers are advised to focus on strengthening the top-performing revenue sources and advertising channels to further enhance income. 
+
 - Leveraging customer data and feedback can aid in tailoring marketing strategies to target specific audiences effectively.
+  
 - The USA is the highest revenue-generating country, contributing 28.23% of the total income. Egypt follows closely, accounting for 26.65% of the total income. These two countries combined contribute more than half of the company's total revenue.
+  
 - The company should focus on customer retention strategies in the USA and Egypt. Satisfied customers are more likely to become repeat buyers, and nurturing existing customer relationships can lead to a more stable revenue stream.
+  
   - Conducting in-depth market research in other countries with relatively lower revenue shares, such as Brazil, Canada, Russia, and the United Kingdom, can help identify opportunities for growth. Understanding the local market dynamics, consumer preferences, and competition will aid in tailoring marketing strategies to these specific regions.
 
 - While the USA and Egypt contribute significantly to the company's income, relying heavily on just a few markets may expose the business to risks. Therefore, exploring opportunities in emerging markets or regions with growth potential can diversify the revenue stream and reduce dependence on specific markets.
