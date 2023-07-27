@@ -31,7 +31,7 @@ https://github.com/Kadiis/FINANCIAL-PERFORMANCE-ANALYSIS/assets/106782819/ac1cfa
 - The USA is the highest revenue-generating country, contributing 28.23% of the total income. Egypt follows closely, accounting for 26.65% of the total income. These two countries combined contribute more than half of the company's total revenue.
   
 ## Recommendations:
-- Based on the analysis, decision-makers are advised to focus on strengthening the top-performing revenue sources and advertising channels to further enhance income. 
+- Based on the analysis, decision-makers should focus their efforts on strengthening the top-performing revenue sources, namely Advertising, Licensing, and Usage Fees. This can be achieved by investing more resources and innovative ideas into these revenue streams to maximize their potential.
 
 - Leveraging customer data and feedback can aid in tailoring marketing strategies to target specific audiences effectively.
   
