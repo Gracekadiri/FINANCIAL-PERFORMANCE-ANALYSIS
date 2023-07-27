@@ -23,6 +23,10 @@ The Excel sheet includes interactive and visually appealing charts, graphs, and 
 
 
 
+https://github.com/Kadiis/FINANCIAL-PERFORMANCE-ANALYSIS/assets/106782819/69c6e311-66db-4ceb-8cdc-7305504655f3
+
+
+
 https://github.com/Kadiis/FINANCIAL-PERFORMANCE-ANALYSIS/assets/106782819/ac1cfab7-05e6-455f-886b-3a288a5ae87f
 
 ## Interpretation:
