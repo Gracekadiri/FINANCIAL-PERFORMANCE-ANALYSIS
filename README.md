@@ -17,7 +17,6 @@ I used various tools and functions to perform the analysis.
 The Excel sheet includes interactive and visually appealing charts, graphs, and tables to present the financial perfomance data effectively. Users can click on hyperlinked elements to navigate seamlessly through the insights.
 #### LINK TO DASHBOARD
 https://1drv.ms/x/s!Ah_OiE5H4-WSgROlqlD1kJEWfpFI?e=nS03LE
-
 ![INCOME](https://github.com/Kadiis/FINANCIAL-PERFORMANCE-ANALYSIS/assets/106782819/5fc61f55-0a61-462e-b06e-f7e00bb0f7b7)
 
 ![Geographically](https://github.com/Kadiis/FINANCIAL-PERFORMANCE-ANALYSIS/assets/106782819/efd10e06-fb45-4780-890d-07ac0daf8f8d)
