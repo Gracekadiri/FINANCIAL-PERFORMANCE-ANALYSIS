@@ -25,7 +25,7 @@ https://1drv.ms/x/s!Ah_OiE5H4-WSgROlqlD1kJEWfpFI?e=nS03LE
 
 https://github.com/Kadiis/FINANCIAL-PERFORMANCE-ANALYSIS/assets/106782819/ac1cfab7-05e6-455f-886b-3a288a5ae87f
 
-## Interpretation:
+## Insights:
 - The analysis revealed that Advertising, Licensing, and Usage Fees were the primary revenue sources for the company, collectively contributing around 50% of the total income. The Facebook Page, Google Ad, and YouTube Channel were the top-performing advertising channels.
 - The marketing strategies employed by the company appear to be well-balanced, encompassing both Business-to-Business (B2B) and Business-to-Customer (B2C) approaches. This suggests that the company is actively catering to both corporate clients and individual consumers.
 - The USA is the highest revenue-generating country, contributing 28.23% of the total income. Egypt follows closely, accounting for 26.65% of the total income. These two countries combined contribute more than half of the company's total revenue.
